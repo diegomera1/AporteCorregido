@@ -1,0 +1,6 @@
+E:\Cristhian\ULEAM\Uleam Tercer Semestre(2)\POO\Examen\AporteCorregido\CapaDeDato\obj\Debug\CapaDeDato.csprojAssemblyReference.cache
+E:\Cristhian\ULEAM\Uleam Tercer Semestre(2)\POO\Examen\AporteCorregido\CapaDeDato\bin\Debug\CapaDeDato.dll.config
+E:\Cristhian\ULEAM\Uleam Tercer Semestre(2)\POO\Examen\AporteCorregido\CapaDeDato\bin\Debug\CapaDeDato.dll
+E:\Cristhian\ULEAM\Uleam Tercer Semestre(2)\POO\Examen\AporteCorregido\CapaDeDato\bin\Debug\CapaDeDato.pdb
+E:\Cristhian\ULEAM\Uleam Tercer Semestre(2)\POO\Examen\AporteCorregido\CapaDeDato\obj\Debug\CapaDeDato.dll
+E:\Cristhian\ULEAM\Uleam Tercer Semestre(2)\POO\Examen\AporteCorregido\CapaDeDato\obj\Debug\CapaDeDato.pdb

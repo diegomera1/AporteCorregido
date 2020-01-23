@@ -1,0 +1,13 @@
+E:\Cristhian\ULEAM\Uleam Tercer Semestre(2)\POO\Examen\AporteCorregido\AporteCorregido\obj\Debug\AporteCorregido.csprojAssemblyReference.cache
+E:\Cristhian\ULEAM\Uleam Tercer Semestre(2)\POO\Examen\AporteCorregido\AporteCorregido\bin\Debug\AporteCorregido.exe.config
+E:\Cristhian\ULEAM\Uleam Tercer Semestre(2)\POO\Examen\AporteCorregido\AporteCorregido\bin\Debug\AporteCorregido.exe
+E:\Cristhian\ULEAM\Uleam Tercer Semestre(2)\POO\Examen\AporteCorregido\AporteCorregido\bin\Debug\AporteCorregido.pdb
+E:\Cristhian\ULEAM\Uleam Tercer Semestre(2)\POO\Examen\AporteCorregido\AporteCorregido\bin\Debug\CapaDeDato.dll
+E:\Cristhian\ULEAM\Uleam Tercer Semestre(2)\POO\Examen\AporteCorregido\AporteCorregido\bin\Debug\CapaDeNegocio.dll
+E:\Cristhian\ULEAM\Uleam Tercer Semestre(2)\POO\Examen\AporteCorregido\AporteCorregido\bin\Debug\CapaDeDato.pdb
+E:\Cristhian\ULEAM\Uleam Tercer Semestre(2)\POO\Examen\AporteCorregido\AporteCorregido\bin\Debug\CapaDeDato.dll.config
+E:\Cristhian\ULEAM\Uleam Tercer Semestre(2)\POO\Examen\AporteCorregido\AporteCorregido\bin\Debug\CapaDeNegocio.pdb
+E:\Cristhian\ULEAM\Uleam Tercer Semestre(2)\POO\Examen\AporteCorregido\AporteCorregido\bin\Debug\CapaDeNegocio.dll.config
+E:\Cristhian\ULEAM\Uleam Tercer Semestre(2)\POO\Examen\AporteCorregido\AporteCorregido\obj\Debug\AporteCorregido.csproj.CopyComplete
+E:\Cristhian\ULEAM\Uleam Tercer Semestre(2)\POO\Examen\AporteCorregido\AporteCorregido\obj\Debug\AporteCorregido.exe
+E:\Cristhian\ULEAM\Uleam Tercer Semestre(2)\POO\Examen\AporteCorregido\AporteCorregido\obj\Debug\AporteCorregido.pdb
